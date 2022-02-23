@@ -1,0 +1,12 @@
+#border{
+    background-color:antiquewhite;
+    height: 55vh;
+    margin: auto;
+    margin-top: 15vh;
+    width:110vh;
+    overflow:hidden;
+}
+.stork{
+    transform: rotate(-15deg);
+    width: 25vw;
+}
