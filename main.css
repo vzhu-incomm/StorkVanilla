@@ -10,3 +10,18 @@
     transform: rotate(-15deg);
     width: 17vw;
 }
+
+#text{
+    z-index: 1;
+    width: 15vw;
+    height:14vh;
+    position: relative;
+    transform: rotate(-15deg);
+
+    top:-43vh;
+    left:26.5vw;
+
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+}
